@@ -1,4 +1,4 @@
 MineTea
 =======
 
-This is a MOD for minecraft. It add many kind of tea
+This is a MOD for minecraft. It adds many kind of tea.
